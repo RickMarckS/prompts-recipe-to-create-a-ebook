@@ -39,21 +39,20 @@ seguem abaixo.
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                    |
+| conteúdo | Faça um texto para ebook , com foco em ficar OP, em dark souls 1 remastered utilizando a uchigatana e dando dicas iniciais, de criação de classe e pontos de referência para achar a uchigatana dentro do jogo e upar ela até +5
 
 
-Midjourney：
+Chatgpt:
 
-|  Ação  | prompt                                                                                 |
+|  Ação  | gere uma imagem de uma espada no meio de uma fogueira, em uma floresta, está de noite e tem estrelas no céu, a imagem deve ser feita em pixel art, e deve conter a mensagem don´t stay a hollow, e deve conter tonalidades escurecidas na imagem, tendo o formato de uma capa de ebook                                                                         |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| contéudo| Capa.webp|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ChatGPT
 
 ## 📚 Materiais
 
